@@ -1,0 +1,114 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 6 0 R] /Count 2 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 7 0 R >>
+endobj
+6 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 8 0 R >>
+endobj
+7 0 obj
+<< /Length 3516 >>
+stream
+0.3 0.3 0.35 rg BT /F2 8.5 Tf 54 750 Td (CNC Machine CNC-X100 - Technical Specifications) Tj ET
+0.75 0.75 0.8 RG 0.5 w 54 742 m 558 742 l S
+0.1 0.25 0.55 rg BT /F2 18 Tf 54 710 Td (CNC-X100 Technical Specifications & Engineering Data) Tj ET
+0.35 0.35 0.35 rg BT /F1 10 Tf 54 684 Td (Product: CNC Machine  |  Model: CNC-X100  |  Document Type: TECHNICAL_SPECIFICATION) Tj ET
+0.8 0.8 0.85 RG 1.5 w 54 664 m 558 664 l S
+0.1 0.2 0.5 rg BT /F2 14 Tf 54 639 Td (1. Machine Dimensions & Physical Parameters) Tj ET
+0.85 0.85 0.9 RG 0.75 w 54 619 m 558 619 l S
+0.2 0.2 0.2 rg BT /F1 9.5 Tf 66 604 Td (- Machine Category: 3-Axis Vertical Machining Center.) Tj ET
+0.2 0.2 0.2 rg BT /F1 9.5 Tf 66 588 Td (- Machine Footprint: 2,800 mm Width x 2,250 mm Depth x 2,650 mm Height.) Tj ET
+0.2 0.2 0.2 rg BT /F1 9.5 Tf 66 572 Td (- Total Machine Weight: 4,200 kg \(9,260 lbs\).) Tj ET
+0.2 0.2 0.2 rg BT /F1 9.5 Tf 66 556 Td (- Table Dimensions: 900 mm x 450 mm.) Tj ET
+0.2 0.2 0.2 rg BT /F1 9.5 Tf 66 540 Td (- Maximum Workpiece / Table Load Capacity: 600 kg \(1,320 lbs\).) Tj ET
+0.2 0.2 0.2 rg BT /F1 9.5 Tf 66 524 Td (- T-Slot Configuration: 5 slots, 18 mm width, 100 mm pitch.) Tj ET
+0.1 0.2 0.5 rg BT /F2 14 Tf 54 508 Td (2. Electrical & Power Requirements) Tj ET
+0.85 0.85 0.9 RG 0.75 w 54 488 m 558 488 l S
+0.2 0.2 0.2 rg BT /F1 9.5 Tf 66 473 Td (- Input Voltage: 3-Phase AC 400V ±10%, 50/60 Hz.) Tj ET
+0.2 0.2 0.2 rg BT /F1 9.5 Tf 66 457 Td (- Total Connected Load: 35 kVA.) Tj ET
+0.2 0.2 0.2 rg BT /F1 9.5 Tf 66 441 Td (- Full Load Current: 48 Amps.) Tj ET
+0.2 0.2 0.2 rg BT /F1 9.5 Tf 66 425 Td (- Recommended Circuit Breaker: 63 Amp 3-pole breaker with RCCB.) Tj ET
+0.2 0.2 0.2 rg BT /F1 9.5 Tf 66 409 Td (- Control Voltage: 24V DC regulated power supply.) Tj ET
+0.2 0.2 0.2 rg BT /F1 9.5 Tf 66 393 Td (- Grounding Requirement: Dedicated earth ground rod with ground resistance <5) Tj ET
+0.2 0.2 0.2 rg BT /F1 9.5 Tf 66 380 Td (  Ohms.) Tj ET
+0.1 0.2 0.5 rg BT /F2 14 Tf 54 364 Td (3. Operating Temperature & Environmental Limits) Tj ET
+0.85 0.85 0.9 RG 0.75 w 54 344 m 558 344 l S
+0.2 0.2 0.2 rg BT /F1 9.5 Tf 66 329 Td (- Operating Temperature Range: +15∞C to +35∞C \(+59∞F to +95∞F\).) Tj ET
+0.2 0.2 0.2 rg BT /F1 9.5 Tf 66 313 Td (- Storage Temperature Range: -10∞C to +50∞C.) Tj ET
+0.2 0.2 0.2 rg BT /F1 9.5 Tf 66 297 Td (- Relative Humidity: 30% to 80% non-condensing.) Tj ET
+0.2 0.2 0.2 rg BT /F1 9.5 Tf 66 281 Td (- Maximum Altitude: 1,000 meters above sea level without power derating.) Tj ET
+0.1 0.2 0.5 rg BT /F2 14 Tf 54 265 Td (4. Spindle Unit & Tooling Specifications) Tj ET
+0.85 0.85 0.9 RG 0.75 w 54 245 m 558 245 l S
+0.2 0.2 0.2 rg BT /F1 9.5 Tf 66 230 Td (- Spindle Taper: BT40 \(ISO 7388-1\).) Tj ET
+0.2 0.2 0.2 rg BT /F1 9.5 Tf 66 214 Td (- Spindle Speed Range: 100 RPM to 12,000 RPM \(Direct Drive\).) Tj ET
+0.2 0.2 0.2 rg BT /F1 9.5 Tf 66 198 Td (- Spindle Motor Power: 11 kW continuous / 15 kW 30-min peak duty.) Tj ET
+0.2 0.2 0.2 rg BT /F1 9.5 Tf 66 182 Td (- Maximum Spindle Torque: 95 Nm @ 1,500 RPM.) Tj ET
+0.2 0.2 0.2 rg BT /F1 9.5 Tf 66 166 Td (- Automatic Tool Changer \(ATC\): 24-tool carousel magazine.) Tj ET
+0.2 0.2 0.2 rg BT /F1 9.5 Tf 66 150 Td (- Tool-to-Tool Change Time: 1.8 seconds.) Tj ET
+0.2 0.2 0.2 rg BT /F1 9.5 Tf 66 134 Td (- Tool Retention Stud Torque: 45 Nm.) Tj ET
+0.75 0.75 0.8 RG 0.5 w 54 48 m 558 48 l S
+0.4 0.4 0.4 rg BT /F1 8.5 Tf 54 36 Td (ProductAssist AI Synthetic Knowledge Base - Demo Material Only) Tj ET
+0.4 0.4 0.4 rg BT /F1 8.5 Tf 490 36 Td (Page 1 of 2) Tj ET
+endstream
+endobj
+8 0 obj
+<< /Length 2501 >>
+stream
+0.3 0.3 0.35 rg BT /F2 8.5 Tf 54 750 Td (CNC Machine CNC-X100 - Technical Specifications) Tj ET
+0.75 0.75 0.8 RG 0.5 w 54 742 m 558 742 l S
+0.1 0.2 0.5 rg BT /F2 14 Tf 54 710 Td (5. Motion & Axis Parameters) Tj ET
+0.85 0.85 0.9 RG 0.75 w 54 690 m 558 690 l S
+0.2 0.2 0.2 rg BT /F1 9.5 Tf 66 675 Td (- X-Axis Travel: 800 mm  |  Y-Axis Travel: 450 mm  |  Z-Axis Travel: 500 mm) Tj ET
+0.2 0.2 0.2 rg BT /F1 9.5 Tf 66 659 Td (- Rapid Traverse Rates: X: 30 m/min, Y: 30 m/min, Z: 24 m/min.) Tj ET
+0.2 0.2 0.2 rg BT /F1 9.5 Tf 66 643 Td (- Maximum Cutting Feed Rate: 10,000 mm/min.) Tj ET
+0.2 0.2 0.2 rg BT /F1 9.5 Tf 66 627 Td (- Positioning Accuracy \(ISO 230-2\): ±0.005 mm.) Tj ET
+0.2 0.2 0.2 rg BT /F1 9.5 Tf 66 611 Td (- Repeatability \(ISO 230-2\): ±0.003 mm.) Tj ET
+0.1 0.2 0.5 rg BT /F2 14 Tf 54 595 Td (6. Pneumatic, Coolant & Lubrication Specifications) Tj ET
+0.85 0.85 0.9 RG 0.75 w 54 575 m 558 575 l S
+0.2 0.2 0.2 rg BT /F1 9.5 Tf 66 560 Td (- Pneumatic Pressure Range: 6.0 bar to 8.0 bar \(nominal 6.5 bar\). Air flow:) Tj ET
+0.2 0.2 0.2 rg BT /F1 9.5 Tf 66 547 Td (  250 L/min.) Tj ET
+0.2 0.2 0.2 rg BT /F1 9.5 Tf 66 531 Td (- Coolant Tank Capacity: 200 Liters.) Tj ET
+0.2 0.2 0.2 rg BT /F1 9.5 Tf 66 515 Td (- Recommended Coolant: 6% water-soluble synthetic coolant emulsion.) Tj ET
+0.2 0.2 0.2 rg BT /F1 9.5 Tf 66 499 Td (- Normal Coolant Fill Level: 80% fill mark \(Minimum acceptable level: 50%\).) Tj ET
+0.2 0.2 0.2 rg BT /F1 9.5 Tf 66 483 Td (- Coolant Pump Pressure & Flow: 3.5 bar @ 35 L/min.) Tj ET
+0.2 0.2 0.2 rg BT /F1 9.5 Tf 66 467 Td (- E105 Alarm Threshold: Flow rate sensor FM-1 detects below 8.0 L/min or) Tj ET
+0.2 0.2 0.2 rg BT /F1 9.5 Tf 66 454 Td (  thermal relay Q4 trips.) Tj ET
+0.2 0.2 0.2 rg BT /F1 9.5 Tf 66 438 Td (- Central Lubrication Oil: ISO VG 68 slide-way oil \(2.0-Liter tank\).) Tj ET
+0.1 0.2 0.5 rg BT /F2 14 Tf 54 422 Td (7. Communication & Telemetry Protocols) Tj ET
+0.85 0.85 0.9 RG 0.75 w 54 402 m 558 402 l S
+0.2 0.2 0.2 rg BT /F1 9.5 Tf 66 387 Td (- Ethernet Configuration: Dual RJ45 1000BASE-T ports. Static IP: 192.168.1.150) Tj ET
+0.2 0.2 0.2 rg BT /F1 9.5 Tf 66 371 Td (- Supported Protocols: Modbus TCP/IP \(Port 502\), OPC UA Server \(Port 4840\),) Tj ET
+0.2 0.2 0.2 rg BT /F1 9.5 Tf 66 358 Td (  MTConnect Agent \(Port 5000\).) Tj ET
+0.75 0.75 0.8 RG 0.5 w 54 48 m 558 48 l S
+0.4 0.4 0.4 rg BT /F1 8.5 Tf 54 36 Td (ProductAssist AI Synthetic Knowledge Base - Demo Material Only) Tj ET
+0.4 0.4 0.4 rg BT /F1 8.5 Tf 490 36 Td (Page 2 of 2) Tj ET
+endstream
+endobj
+xref
+0 9
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000127 00000 n 
+0000000197 00000 n 
+0000000272 00000 n 
+0000000408 00000 n 
+0000000544 00000 n 
+0000004112 00000 n 
+trailer
+<< /Size 9 /Root 1 0 R >>
+startxref
+6665
+%%EOF

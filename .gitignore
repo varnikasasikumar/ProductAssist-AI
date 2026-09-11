@@ -1,0 +1,29 @@
+# Environment variables
+.env
+.env.*
+
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# ChromaDB
+chroma_db/
+chroma_db_backup/
+
+# React
+node_modules/
+dist/
+
+# Spring Boot
+target/
+
+# IDE
+.idea/
+.vscode/
+.metadata/
+*.iml
+
+# OS
+.DS_Store
+Thumbs.db

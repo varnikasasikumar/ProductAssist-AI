@@ -1,0 +1,79 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 6 0 R >>
+endobj
+6 0 obj
+<< /Length 4202 >>
+stream
+0.3 0.3 0.35 rg BT /F2 8.5 Tf 54 750 Td (CNC Machine CNC-X100 - Service Manual) Tj ET
+0.75 0.75 0.8 RG 0.5 w 54 742 m 558 742 l S
+0.1 0.25 0.55 rg BT /F2 18 Tf 54 710 Td (CNC-X100 Field Service & Overhaul Manual) Tj ET
+0.35 0.35 0.35 rg BT /F1 10 Tf 54 684 Td (Product: CNC Machine  |  Model: CNC-X100  |  Document Type: SERVICE_MANUAL) Tj ET
+0.8 0.8 0.85 RG 1.5 w 54 664 m 558 664 l S
+0.1 0.2 0.5 rg BT /F2 14 Tf 54 639 Td (1. Service Overview & Certified Technician Qualification) Tj ET
+0.85 0.85 0.9 RG 0.75 w 54 619 m 558 619 l S
+0.15 0.15 0.15 rg BT /F1 9.5 Tf 54 604 Td (This Service Manual provides authorized field service procedure standards for) Tj ET
+0.15 0.15 0.15 rg BT /F1 9.5 Tf 54 590.5 Td (ProductAssist technicians servicing the CNC-X100 vertical machining center.) Tj ET
+0.2 0.2 0.2 rg BT /F1 9.5 Tf 66 571.0 Td (- Service Clearance: Maintain 1.0-meter open clearance around rear electrical) Tj ET
+0.2 0.2 0.2 rg BT /F1 9.5 Tf 66 558.0 Td (  cabinet and side pump enclosures during field servicing.) Tj ET
+0.2 0.2 0.2 rg BT /F1 9.5 Tf 66 542.0 Td (- Zero Energy State: Always execute Lockout/Tagout \(LOTO\) and verify 400V) Tj ET
+0.2 0.2 0.2 rg BT /F1 9.5 Tf 66 529.0 Td (  3-phase bus voltage reads zero with calibrated meter prior to touching) Tj ET
+0.2 0.2 0.2 rg BT /F1 9.5 Tf 66 516.0 Td (  internal wiring.) Tj ET
+0.1 0.2 0.5 rg BT /F2 14 Tf 54 500.0 Td (2. Component Access & Service Inspection Points) Tj ET
+0.85 0.85 0.9 RG 0.75 w 54 480.0 m 558 480.0 l S
+0.2 0.2 0.2 rg BT /F1 9.5 Tf 66 465.0 Td (- Coolant Tank & Intake Screen: Accessible at lower rear cabinet. Screen) Tj ET
+0.2 0.2 0.2 rg BT /F1 9.5 Tf 66 452.0 Td (  basket mesh size 0.5 mm requires flushing when flow drops below 8.0 L/min.) Tj ET
+0.2 0.2 0.2 rg BT /F1 9.5 Tf 66 436.0 Td (- Spindle Drive Motor & Bearing Chiller: Located at top headstock enclosure.) Tj ET
+0.2 0.2 0.2 rg BT /F1 9.5 Tf 66 423.0 Td (  Chiller unit requires annual refrigerant pressure check.) Tj ET
+0.2 0.2 0.2 rg BT /F1 9.5 Tf 66 407.0 Td (- Z-Axis Ball Screw & Linear Guides: Remove upper accordion way cover.) Tj ET
+0.2 0.2 0.2 rg BT /F1 9.5 Tf 66 394.0 Td (  Lubricate with ISO VG 68 way oil every 500 hours.) Tj ET
+0.2 0.2 0.2 rg BT /F1 9.5 Tf 66 378.0 Td (- Electrical Cabinet Breakers & Relays: Located on rear door panel. Check) Tj ET
+0.2 0.2 0.2 rg BT /F1 9.5 Tf 66 365.0 Td (  thermal overload relay Q4 \(coolant pump\) setting: 8.5 Amps.) Tj ET
+0.1 0.2 0.5 rg BT /F2 14 Tf 54 349.0 Td (3. Major Service Procedures & Field Overhauls) Tj ET
+0.85 0.85 0.9 RG 0.75 w 54 329.0 m 558 329.0 l S
+0.2 0.2 0.2 rg BT /F1 9.5 Tf 66 314.0 Td (- Coolant Pump Replacement: Disconnect 400V 3-phase pump leads, unbolt flange) Tj ET
+0.2 0.2 0.2 rg BT /F1 9.5 Tf 66 301.0 Td (  bolts, replace pump assembly \(Part # X100-PMP-001\).) Tj ET
+0.2 0.2 0.2 rg BT /F1 9.5 Tf 66 285.0 Td (- Spindle BT40 Drawbar Retention Spring Replacement: Use hydraulic spring) Tj ET
+0.2 0.2 0.2 rg BT /F1 9.5 Tf 66 272.0 Td (  compressor tool to replace Belleville washer stack \(retention force 9.5 kN\).) Tj ET
+0.2 0.2 0.2 rg BT /F1 9.5 Tf 66 256.0 Td (- Axis Ball Screw Backlash Adjustment: Adjust pre-load double nut until) Tj ET
+0.2 0.2 0.2 rg BT /F1 9.5 Tf 66 243.0 Td (  backlash reads <0.003 mm on dial indicator.) Tj ET
+0.1 0.2 0.5 rg BT /F2 14 Tf 54 227.0 Td (4. Field Service Escalation Conditions) Tj ET
+0.85 0.85 0.9 RG 0.75 w 54 207.0 m 558 207.0 l S
+0.15 0.15 0.15 rg BT /F1 9.5 Tf 54 192.0 Td (Escalate to Senior Systems Engineer immediately if:) Tj ET
+0.2 0.2 0.2 rg BT /F1 9.5 Tf 66 172.5 Td (- Spindle bearing thermal runout exceeds 0.015 mm or vibration exceeds 4.5) Tj ET
+0.2 0.2 0.2 rg BT /F1 9.5 Tf 66 159.5 Td (  mm/s.) Tj ET
+0.2 0.2 0.2 rg BT /F1 9.5 Tf 66 143.5 Td (- Main casting structure exhibits cracking or foundation anchor bolt) Tj ET
+0.2 0.2 0.2 rg BT /F1 9.5 Tf 66 130.5 Td (  displacement.) Tj ET
+0.2 0.2 0.2 rg BT /F1 9.5 Tf 66 114.5 Td (- Short circuit faults damage internal 24V DC I/O bus controller cards.) Tj ET
+0.75 0.75 0.8 RG 0.5 w 54 48 m 558 48 l S
+0.4 0.4 0.4 rg BT /F1 8.5 Tf 54 36 Td (ProductAssist AI Synthetic Knowledge Base - Demo Material Only) Tj ET
+0.4 0.4 0.4 rg BT /F1 8.5 Tf 490 36 Td (Page 1 of 1) Tj ET
+endstream
+endobj
+xref
+0 7
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000121 00000 n 
+0000000191 00000 n 
+0000000266 00000 n 
+0000000402 00000 n 
+trailer
+<< /Size 7 /Root 1 0 R >>
+startxref
+4656
+%%EOF

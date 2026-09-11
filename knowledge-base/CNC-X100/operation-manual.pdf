@@ -1,0 +1,138 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 6 0 R] /Count 2 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 7 0 R >>
+endobj
+6 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 8 0 R >>
+endobj
+7 0 obj
+<< /Length 4336 >>
+stream
+0.3 0.3 0.35 rg BT /F2 8.5 Tf 54 750 Td (CNC Machine CNC-X100 - Operation Manual) Tj ET
+0.75 0.75 0.8 RG 0.5 w 54 742 m 558 742 l S
+0.1 0.25 0.55 rg BT /F2 18 Tf 54 710 Td (CNC-X100 Vertical Machining Center Operation Manual) Tj ET
+0.35 0.35 0.35 rg BT /F1 10 Tf 54 684 Td (Product: CNC Machine  |  Model: CNC-X100  |  Document Type: OPERATION_MANUAL) Tj ET
+0.8 0.8 0.85 RG 1.5 w 54 664 m 558 664 l S
+0.1 0.2 0.5 rg BT /F2 14 Tf 54 639 Td (1. System Overview & Control Panel Usage) Tj ET
+0.85 0.85 0.9 RG 0.75 w 54 619 m 558 619 l S
+0.15 0.15 0.15 rg BT /F1 9.5 Tf 54 604 Td (The CNC-X100 is a high-precision 3-axis vertical machining center engineered for) Tj ET
+0.15 0.15 0.15 rg BT /F1 9.5 Tf 54 590.5 Td (heavy-duty production milling and drilling operations in industrial enterprise) Tj ET
+0.15 0.15 0.15 rg BT /F1 9.5 Tf 54 577.0 Td (facilities. The machine is controlled via a 15-inch Touchscreen HMI panel running) Tj ET
+0.15 0.15 0.15 rg BT /F1 9.5 Tf 54 563.5 Td (the ProductAssist OS interface.) Tj ET
+0.15 0.15 0.15 rg BT /F1 9.5 Tf 54 544.0 Td (The control panel consists of the primary touch display, emergency stop button,) Tj ET
+0.15 0.15 0.15 rg BT /F1 9.5 Tf 54 530.5 Td (cycle start/hold buttons, manual pulse generator \(MPG\), mode selector dial \(AUTO /) Tj ET
+0.15 0.15 0.15 rg BT /F1 9.5 Tf 54 517.0 Td (MDA / JOG\), and spindle speed override dial \(0% to 150%\).) Tj ET
+0.2 0.2 0.2 rg BT /F1 9.5 Tf 66 497.5 Td (- Touchscreen HMI: Displays real-time axis positions \(G54-G59\), active modal) Tj ET
+0.2 0.2 0.2 rg BT /F1 9.5 Tf 66 484.5 Td (  G-codes, tool offset table, coolant flow rate telemetry, and system alarm) Tj ET
+0.2 0.2 0.2 rg BT /F1 9.5 Tf 66 471.5 Td (  logs.) Tj ET
+0.2 0.2 0.2 rg BT /F1 9.5 Tf 66 455.5 Td (- Cycle Start Button \(Green\): Initiates automatic execution of loaded G-code) Tj ET
+0.2 0.2 0.2 rg BT /F1 9.5 Tf 66 442.5 Td (  programs.) Tj ET
+0.2 0.2 0.2 rg BT /F1 9.5 Tf 66 426.5 Td (- Feed Hold Button \(Red\): Pauses axis feed motion immediately without stopping) Tj ET
+0.2 0.2 0.2 rg BT /F1 9.5 Tf 66 413.5 Td (  spindle rotation or turning off coolant flow.) Tj ET
+0.2 0.2 0.2 rg BT /F1 9.5 Tf 66 397.5 Td (- Spindle Speed Override Dial: Allows real-time operator adjustment of spindle) Tj ET
+0.2 0.2 0.2 rg BT /F1 9.5 Tf 66 384.5 Td (  RPM between 0% and 150% during cutting cycles.) Tj ET
+0.1 0.2 0.5 rg BT /F2 14 Tf 54 368.5 Td (2. Network Configuration & Connectivity) Tj ET
+0.85 0.85 0.9 RG 0.75 w 54 348.5 m 558 348.5 l S
+0.15 0.15 0.15 rg BT /F1 9.5 Tf 54 333.5 Td (The CNC-X100 features dual 1000BASE-T Ethernet ports located on the rear) Tj ET
+0.15 0.15 0.15 rg BT /F1 9.5 Tf 54 320.0 Td (electrical cabinet door for integration with enterprise shopfloor networks and) Tj ET
+0.15 0.15 0.15 rg BT /F1 9.5 Tf 54 306.5 Td (ProductAssist AI monitoring agents.) Tj ET
+0.15 0.15 0.15 rg BT /F1 9.5 Tf 54 287.0 Td (To configure network settings, navigate to Menu > Settings > System > Network) Tj ET
+0.15 0.15 0.15 rg BT /F1 9.5 Tf 54 273.5 Td (Configuration on the control panel:) Tj ET
+0.2 0.2 0.2 rg BT /F1 9.5 Tf 66 254.0 Td (- IP Allocation: Static IP \(Recommended for automated telemetry monitoring\).) Tj ET
+0.2 0.2 0.2 rg BT /F1 9.5 Tf 66 238.0 Td (- Default Static IP Address: 192.168.1.150  |  Subnet Mask: 255.255.255.0) Tj ET
+0.2 0.2 0.2 rg BT /F1 9.5 Tf 66 222.0 Td (- Gateway Address: 192.168.1.1  |  DNS Server: 192.168.1.10) Tj ET
+0.2 0.2 0.2 rg BT /F1 9.5 Tf 66 206.0 Td (- Modbus TCP \(Port 502\): Transmits real-time sensor telemetry including) Tj ET
+0.2 0.2 0.2 rg BT /F1 9.5 Tf 66 193.0 Td (  spindle load, coolant pressure, and axis vibration to PLC monitoring hubs.) Tj ET
+0.2 0.2 0.2 rg BT /F1 9.5 Tf 66 177.0 Td (- OPC UA Server \(Port 4840\): Provides standardized machine state, operational) Tj ET
+0.2 0.2 0.2 rg BT /F1 9.5 Tf 66 164.0 Td (  mode, and fault alarm history to shopfloor SCADA applications.) Tj ET
+0.2 0.2 0.2 rg BT /F1 9.5 Tf 66 148.0 Td (- MTConnect Agent \(Port 5000\): Streams XML execution metrics and part) Tj ET
+0.2 0.2 0.2 rg BT /F1 9.5 Tf 66 135.0 Td (  completion counts for manufacturing execution tracking.) Tj ET
+0.75 0.75 0.8 RG 0.5 w 54 48 m 558 48 l S
+0.4 0.4 0.4 rg BT /F1 8.5 Tf 54 36 Td (ProductAssist AI Synthetic Knowledge Base - Demo Material Only) Tj ET
+0.4 0.4 0.4 rg BT /F1 8.5 Tf 490 36 Td (Page 1 of 2) Tj ET
+endstream
+endobj
+8 0 obj
+<< /Length 4652 >>
+stream
+0.3 0.3 0.35 rg BT /F2 8.5 Tf 54 750 Td (CNC Machine CNC-X100 - Operation Manual) Tj ET
+0.75 0.75 0.8 RG 0.5 w 54 742 m 558 742 l S
+0.1 0.2 0.5 rg BT /F2 14 Tf 54 710 Td (3. Pre-Start Inspection & Daily Startup Procedure) Tj ET
+0.85 0.85 0.9 RG 0.75 w 54 690 m 558 690 l S
+0.15 0.15 0.15 rg BT /F1 9.5 Tf 54 675 Td (Operators must complete the standard 5-step daily startup routine prior to) Tj ET
+0.15 0.15 0.15 rg BT /F1 9.5 Tf 54 661.5 Td (machining production parts:) Tj ET
+0.2 0.2 0.2 rg BT /F1 9.5 Tf 66 642.0 Td (- Step 1: Perform visual pre-start check of machine enclosure, clean chips) Tj ET
+0.2 0.2 0.2 rg BT /F1 9.5 Tf 66 629.0 Td (  from way covers, and verify coolant fluid level sight glass reads above 75%) Tj ET
+0.2 0.2 0.2 rg BT /F1 9.5 Tf 66 616.0 Td (  capacity.) Tj ET
+0.2 0.2 0.2 rg BT /F1 9.5 Tf 66 600.0 Td (- Step 2: Turn ON main power circuit disconnect switch located on the rear) Tj ET
+0.2 0.2 0.2 rg BT /F1 9.5 Tf 66 587.0 Td (  electrical cabinet.) Tj ET
+0.2 0.2 0.2 rg BT /F1 9.5 Tf 66 571.0 Td (- Step 3: Release the red mushroom Emergency Stop button on the operator panel) Tj ET
+0.2 0.2 0.2 rg BT /F1 9.5 Tf 66 558.0 Td (  by twisting clockwise.) Tj ET
+0.2 0.2 0.2 rg BT /F1 9.5 Tf 66 542.0 Td (- Step 4: Press the Power On button on the control panel and wait 45 seconds) Tj ET
+0.2 0.2 0.2 rg BT /F1 9.5 Tf 66 529.0 Td (  for system boot.) Tj ET
+0.2 0.2 0.2 rg BT /F1 9.5 Tf 66 513.0 Td (- Step 5: Perform Axis Homing routine by selecting HOME mode and pressing) Tj ET
+0.2 0.2 0.2 rg BT /F1 9.5 Tf 66 500.0 Td (  CYCLE START to establish reference zero for X, Y, and Z axes \(G28\).) Tj ET
+0.1 0.2 0.5 rg BT /F2 14 Tf 54 484.0 Td (4. Machine Operation, Program Execution & Tooling) Tj ET
+0.85 0.85 0.9 RG 0.75 w 54 464.0 m 558 464.0 l S
+0.15 0.15 0.15 rg BT /F1 9.5 Tf 54 449.0 Td (Standard workpiece setup, tool management, and program execution procedure:) Tj ET
+0.2 0.2 0.2 rg BT /F1 9.5 Tf 66 429.5 Td (- 1. Load G-code program via USB drive or network share into memory location) Tj ET
+0.2 0.2 0.2 rg BT /F1 9.5 Tf 66 416.5 Td (  /NC_PROG/PART_01.NC.) Tj ET
+0.2 0.2 0.2 rg BT /F1 9.5 Tf 66 400.5 Td (- 2. Mount workpiece securely in pneumatic vise and probe work coordinate) Tj ET
+0.2 0.2 0.2 rg BT /F1 9.5 Tf 66 387.5 Td (  origin using edge finder or touch probe \(G54\).) Tj ET
+0.2 0.2 0.2 rg BT /F1 9.5 Tf 66 371.5 Td (- 3. Perform tool length offset measurement using laser tool setter for active) Tj ET
+0.2 0.2 0.2 rg BT /F1 9.5 Tf 66 358.5 Td (  tools in 24-pocket BT40 ATC magazine.) Tj ET
+0.2 0.2 0.2 rg BT /F1 9.5 Tf 66 342.5 Td (- 4. Select AUTO mode, enable single-block mode for initial dry-run) Tj ET
+0.2 0.2 0.2 rg BT /F1 9.5 Tf 66 329.5 Td (  verification, and press CYCLE START.) Tj ET
+0.2 0.2 0.2 rg BT /F1 9.5 Tf 66 313.5 Td (- 5. Monitor spindle load meter and coolant flow rate during initial cutting) Tj ET
+0.2 0.2 0.2 rg BT /F1 9.5 Tf 66 300.5 Td (  pass.) Tj ET
+0.1 0.2 0.5 rg BT /F2 14 Tf 54 284.5 Td (5. Shutdown Procedures & Alarm Recording) Tj ET
+0.85 0.85 0.9 RG 0.75 w 54 264.5 m 558 264.5 l S
+0.15 0.15 0.15 rg BT /F1 9.5 Tf 54 249.5 Td (Standard Shutdown Procedure:) Tj ET
+0.2 0.2 0.2 rg BT /F1 9.5 Tf 66 230.0 Td (- Move axes to safe home position \(G28 X0 Y0 Z0\). Stop spindle and turn OFF) Tj ET
+0.2 0.2 0.2 rg BT /F1 9.5 Tf 66 217.0 Td (  coolant pump.) Tj ET
+0.2 0.2 0.2 rg BT /F1 9.5 Tf 66 201.0 Td (- Navigate to Menu > System > Shutdown on HMI and select Confirm. Turn OFF) Tj ET
+0.2 0.2 0.2 rg BT /F1 9.5 Tf 66 188.0 Td (  main electrical disconnect breaker.) Tj ET
+0.15 0.15 0.15 rg BT /F1 9.5 Tf 54 172.0 Td (Alarm Recording Protocol:) Tj ET
+0.2 0.2 0.2 rg BT /F1 9.5 Tf 66 152.5 Td (- Whenever an alarm code \(e.g. E105, E210, E315, E420\) triggers during) Tj ET
+0.2 0.2 0.2 rg BT /F1 9.5 Tf 66 139.5 Td (  operation, the operator must log the alarm code, active tool number, G-code) Tj ET
+0.2 0.2 0.2 rg BT /F1 9.5 Tf 66 126.5 Td (  line, and axis positions into the shift maintenance log.) Tj ET
+1.0 0.95 0.9 rg 54 67.5 504 53 re f
+0.8 0.3 0.1 RG 1 w 54 67.5 504 53 re s
+0.7 0.2 0.0 rg BT /F2 9.5 Tf 64 108.5 Td (WARNING / SAFETY PRECAUTION:) Tj ET
+0.3 0.1 0.0 rg BT /F1 9 Tf 64 95.5 Td (In case of tool crash, severe vibration, or coolant line rupture, hit the) Tj ET
+0.3 0.1 0.0 rg BT /F1 9 Tf 64 82.5 Td (red Emergency Stop button immediately. Never reach inside enclosure while) Tj ET
+0.3 0.1 0.0 rg BT /F1 9 Tf 64 69.5 Td (spindle is rotating.) Tj ET
+0.75 0.75 0.8 RG 0.5 w 54 48 m 558 48 l S
+0.4 0.4 0.4 rg BT /F1 8.5 Tf 54 36 Td (ProductAssist AI Synthetic Knowledge Base - Demo Material Only) Tj ET
+0.4 0.4 0.4 rg BT /F1 8.5 Tf 490 36 Td (Page 2 of 2) Tj ET
+endstream
+endobj
+xref
+0 9
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000127 00000 n 
+0000000197 00000 n 
+0000000272 00000 n 
+0000000408 00000 n 
+0000000544 00000 n 
+0000004932 00000 n 
+trailer
+<< /Size 9 /Root 1 0 R >>
+startxref
+9636
+%%EOF

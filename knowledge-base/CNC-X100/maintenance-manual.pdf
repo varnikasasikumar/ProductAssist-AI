@@ -1,0 +1,133 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 6 0 R] /Count 2 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 7 0 R >>
+endobj
+6 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 8 0 R >>
+endobj
+7 0 obj
+<< /Length 4025 >>
+stream
+0.3 0.3 0.35 rg BT /F2 8.5 Tf 54 750 Td (CNC Machine CNC-X100 - Maintenance Manual) Tj ET
+0.75 0.75 0.8 RG 0.5 w 54 742 m 558 742 l S
+0.1 0.25 0.55 rg BT /F2 18 Tf 54 710 Td (CNC-X100 Vertical Machining Center Maintenance Manual) Tj ET
+0.35 0.35 0.35 rg BT /F1 10 Tf 54 684 Td (Product: CNC Machine  |  Model: CNC-X100  |  Document Type: MAINTENANCE_MANUAL) Tj ET
+0.8 0.8 0.85 RG 1.5 w 54 664 m 558 664 l S
+0.1 0.2 0.5 rg BT /F2 14 Tf 54 639 Td (1. Preventive Maintenance Philosophy & Schedule) Tj ET
+0.85 0.85 0.9 RG 0.75 w 54 619 m 558 619 l S
+0.15 0.15 0.15 rg BT /F1 9.5 Tf 54 604 Td (Adhering to routine maintenance schedules prevents costly machine downtime,) Tj ET
+0.15 0.15 0.15 rg BT /F1 9.5 Tf 54 590.5 Td (preserves positioning accuracy \(±0.005 mm\), and extends spindle lifespan.) Tj ET
+0.1 0.2 0.5 rg BT /F2 14 Tf 54 571.0 Td (2. Daily Inspection Tasks \(Operator Duty\)) Tj ET
+0.85 0.85 0.9 RG 0.75 w 54 551.0 m 558 551.0 l S
+0.2 0.2 0.2 rg BT /F1 9.5 Tf 66 536.0 Td (- Coolant Tank: Inspect fluid level sight glass \(maintain 80% fill level\) and) Tj ET
+0.2 0.2 0.2 rg BT /F1 9.5 Tf 66 523.0 Td (  check concentration using optical refractometer \(5% to 8%\).) Tj ET
+0.2 0.2 0.2 rg BT /F1 9.5 Tf 66 507.0 Td (- Pneumatic FRL Unit: Check main regulator gauge reads 6.0 bar to 8.0 bar) Tj ET
+0.2 0.2 0.2 rg BT /F1 9.5 Tf 66 494.0 Td (  \(nominal 6.5 bar\). Drain condensate bowl.) Tj ET
+0.2 0.2 0.2 rg BT /F1 9.5 Tf 66 478.0 Td (- Automatic Lubrication Tank: Verify ISO VG 68 oil level above 50% capacity.) Tj ET
+0.2 0.2 0.2 rg BT /F1 9.5 Tf 66 462.0 Td (- Enclosure & Way Covers: Clean metal chips off X, Y, Z way covers and door) Tj ET
+0.2 0.2 0.2 rg BT /F1 9.5 Tf 66 449.0 Td (  glass using brass scraper and shop vacuum.) Tj ET
+0.2 0.2 0.2 rg BT /F1 9.5 Tf 66 433.0 Td (- Safety Systems: Test Emergency Stop button and safety door interlock) Tj ET
+0.2 0.2 0.2 rg BT /F1 9.5 Tf 66 420.0 Td (  operation.) Tj ET
+0.1 0.2 0.5 rg BT /F2 14 Tf 54 404.0 Td (3. Weekly Inspection Checklist \(Maintenance Technician\)) Tj ET
+0.85 0.85 0.9 RG 0.75 w 54 384.0 m 558 384.0 l S
+0.2 0.2 0.2 rg BT /F1 9.5 Tf 66 369.0 Td (- Coolant Intake Filter: Remove screen basket from coolant tank and clean) Tj ET
+0.2 0.2 0.2 rg BT /F1 9.5 Tf 66 356.0 Td (  accumulated sludge with compressed air.) Tj ET
+0.2 0.2 0.2 rg BT /F1 9.5 Tf 66 340.0 Td (- Spindle Taper Inspection: Clean BT40 spindle internal taper using felt wiper) Tj ET
+0.2 0.2 0.2 rg BT /F1 9.5 Tf 66 327.0 Td (  tool. Check for fretting or galling.) Tj ET
+0.2 0.2 0.2 rg BT /F1 9.5 Tf 66 311.0 Td (- Tool Holder Inspection: Check retention knobs \(pull studs\) for cracking or) Tj ET
+0.2 0.2 0.2 rg BT /F1 9.5 Tf 66 298.0 Td (  wear \(torque specification 45 Nm\).) Tj ET
+0.2 0.2 0.2 rg BT /F1 9.5 Tf 66 282.0 Td (- Way Cover Wipers: Inspect rubber wipers on linear guide way covers for wear,) Tj ET
+0.2 0.2 0.2 rg BT /F1 9.5 Tf 66 269.0 Td (  tears, or chip embedding.) Tj ET
+0.1 0.2 0.5 rg BT /F2 14 Tf 54 253.0 Td (4. Monthly Maintenance Tasks) Tj ET
+0.85 0.85 0.9 RG 0.75 w 54 233.0 m 558 233.0 l S
+0.2 0.2 0.2 rg BT /F1 9.5 Tf 66 218.0 Td (- Air Filter Replacement: Clean electrical cabinet intake filter mats; replace) Tj ET
+0.2 0.2 0.2 rg BT /F1 9.5 Tf 66 205.0 Td (  if clogged \(Part # X100-FLT-002\).) Tj ET
+0.2 0.2 0.2 rg BT /F1 9.5 Tf 66 189.0 Td (- Axis Drive Belts: Check tension of X and Y axis timing belts using acoustic) Tj ET
+0.2 0.2 0.2 rg BT /F1 9.5 Tf 66 176.0 Td (  meter \(nominal 115 Hz\).) Tj ET
+0.2 0.2 0.2 rg BT /F1 9.5 Tf 66 160.0 Td (- Automatic Tool Changer \(ATC\): Grease tool gripper arm pivot pins and cam box) Tj ET
+0.2 0.2 0.2 rg BT /F1 9.5 Tf 66 147.0 Td (  using NLGI Grade 2 lithium grease.) Tj ET
+0.2 0.2 0.2 rg BT /F1 9.5 Tf 66 131.0 Td (- Pneumatic Line Dryer: Replace 5-micron coalescing air filter element.) Tj ET
+0.75 0.75 0.8 RG 0.5 w 54 48 m 558 48 l S
+0.4 0.4 0.4 rg BT /F1 8.5 Tf 54 36 Td (ProductAssist AI Synthetic Knowledge Base - Demo Material Only) Tj ET
+0.4 0.4 0.4 rg BT /F1 8.5 Tf 490 36 Td (Page 1 of 2) Tj ET
+endstream
+endobj
+8 0 obj
+<< /Length 3525 >>
+stream
+0.3 0.3 0.35 rg BT /F2 8.5 Tf 54 750 Td (CNC Machine CNC-X100 - Maintenance Manual) Tj ET
+0.75 0.75 0.8 RG 0.5 w 54 742 m 558 742 l S
+0.1 0.2 0.5 rg BT /F2 14 Tf 54 710 Td (5. Cabinet Air Filter Replacement Procedure) Tj ET
+0.85 0.85 0.9 RG 0.75 w 54 690 m 558 690 l S
+0.15 0.15 0.15 rg BT /F1 9.5 Tf 54 675 Td (Step-by-step instructions for electrical cabinet air filter maintenance:) Tj ET
+0.15 0.15 0.15 rg BT /F1 9.5 Tf 54 655.5 Td (1. Turn OFF main electrical disconnect breaker and open louver door covers on rear) Tj ET
+0.15 0.15 0.15 rg BT /F1 9.5 Tf 54 642.0 Td (cabinet.) Tj ET
+0.15 0.15 0.15 rg BT /F1 9.5 Tf 54 622.5 Td (2. Remove filter retainer clips and pull out dusty filter mat.) Tj ET
+0.15 0.15 0.15 rg BT /F1 9.5 Tf 54 603.0 Td (3. Wash mat in mild detergent water, dry completely with compressed air hose, or) Tj ET
+0.15 0.15 0.15 rg BT /F1 9.5 Tf 54 589.5 Td (insert new filter mat \(Part # X100-FLT-002\).) Tj ET
+0.1 0.2 0.5 rg BT /F2 14 Tf 54 570.0 Td (6. Coolant Inspection & Complete Flush Procedure) Tj ET
+0.85 0.85 0.9 RG 0.75 w 54 550.0 m 558 550.0 l S
+0.15 0.15 0.15 rg BT /F1 9.5 Tf 54 535.0 Td (Every 6 months or 1,500 operating hours, perform complete coolant flush:) Tj ET
+0.15 0.15 0.15 rg BT /F1 9.5 Tf 54 515.5 Td (1. Pump out old coolant fluid into disposal tank.) Tj ET
+0.15 0.15 0.15 rg BT /F1 9.5 Tf 54 496.0 Td (2. Scrape metal chips and bio-sludge from 200L tank floor.) Tj ET
+0.15 0.15 0.15 rg BT /F1 9.5 Tf 54 476.5 Td (3. Flush lines with 2% system cleaner solution for 1 hour, drain completely, and) Tj ET
+0.15 0.15 0.15 rg BT /F1 9.5 Tf 54 463.0 Td (refill with fresh 6% synthetic coolant emulsion to 80% fill mark.) Tj ET
+0.1 0.2 0.5 rg BT /F2 14 Tf 54 443.5 Td (7. Maintenance Interval Summary Matrix) Tj ET
+0.85 0.85 0.9 RG 0.75 w 54 423.5 m 558 423.5 l S
+0.9 0.92 0.96 rg 54 404.5 504 16 re f
+0.7 0.75 0.85 RG 0.5 w 54 404.5 504 16 re s
+0.1 0.2 0.4 rg BT /F2 9 Tf 58 408.5 Td (Task Description) Tj ET
+0.1 0.2 0.4 rg BT /F2 9 Tf 200 408.5 Td (Frequency) Tj ET
+0.1 0.2 0.4 rg BT /F2 9 Tf 380 408.5 Td (Consumable / Part #) Tj ET
+0.15 0.15 0.15 rg BT /F1 9 Tf 58 393.5 Td (Check Lube & Coolant Leve) Tj ET
+0.15 0.15 0.15 rg BT /F1 9 Tf 200 393.5 Td (Daily) Tj ET
+0.15 0.15 0.15 rg BT /F1 9 Tf 380 393.5 Td (ISO VG 68 / Coolant) Tj ET
+0.15 0.15 0.15 rg BT /F1 9 Tf 58 378.5 Td (Clean Spindle Taper & Pul) Tj ET
+0.15 0.15 0.15 rg BT /F1 9 Tf 200 378.5 Td (Weekly) Tj ET
+0.15 0.15 0.15 rg BT /F1 9 Tf 380 378.5 Td (Felt Wiper Tool) Tj ET
+0.15 0.15 0.15 rg BT /F1 9 Tf 58 363.5 Td (Cabinet Air Filter Mat Sw) Tj ET
+0.15 0.15 0.15 rg BT /F1 9 Tf 200 363.5 Td (Monthly) Tj ET
+0.15 0.15 0.15 rg BT /F1 9 Tf 380 363.5 Td (Part # X100-FLT-002) Tj ET
+0.15 0.15 0.15 rg BT /F1 9 Tf 58 348.5 Td (ATC Cam Box Greasing) Tj ET
+0.15 0.15 0.15 rg BT /F1 9 Tf 200 348.5 Td (Every 3 Months) Tj ET
+0.15 0.15 0.15 rg BT /F1 9 Tf 380 348.5 Td (NLGI Grade 2 Lithium) Tj ET
+0.15 0.15 0.15 rg BT /F1 9 Tf 58 333.5 Td (Coolant Tank Complete Flu) Tj ET
+0.15 0.15 0.15 rg BT /F1 9 Tf 200 333.5 Td (Every 6 Months) Tj ET
+0.15 0.15 0.15 rg BT /F1 9 Tf 380 333.5 Td (System Flush Cleaner) Tj ET
+0.15 0.15 0.15 rg BT /F1 9 Tf 58 318.5 Td (Laser Interferometer Cali) Tj ET
+0.15 0.15 0.15 rg BT /F1 9 Tf 200 318.5 Td (Annual) Tj ET
+0.15 0.15 0.15 rg BT /F1 9 Tf 380 318.5 Td (Service Technician) Tj ET
+0.75 0.75 0.8 RG 0.5 w 54 48 m 558 48 l S
+0.4 0.4 0.4 rg BT /F1 8.5 Tf 54 36 Td (ProductAssist AI Synthetic Knowledge Base - Demo Material Only) Tj ET
+0.4 0.4 0.4 rg BT /F1 8.5 Tf 490 36 Td (Page 2 of 2) Tj ET
+endstream
+endobj
+xref
+0 9
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000127 00000 n 
+0000000197 00000 n 
+0000000272 00000 n 
+0000000408 00000 n 
+0000000544 00000 n 
+0000004621 00000 n 
+trailer
+<< /Size 9 /Root 1 0 R >>
+startxref
+8198
+%%EOF

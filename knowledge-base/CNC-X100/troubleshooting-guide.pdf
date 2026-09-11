@@ -1,0 +1,167 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 6 0 R 7 0 R] /Count 3 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 8 0 R >>
+endobj
+6 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 9 0 R >>
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 10 0 R >>
+endobj
+8 0 obj
+<< /Length 4658 >>
+stream
+0.3 0.3 0.35 rg BT /F2 8.5 Tf 54 750 Td (CNC Machine CNC-X100 - Troubleshooting Guide) Tj ET
+0.75 0.75 0.8 RG 0.5 w 54 742 m 558 742 l S
+0.1 0.25 0.55 rg BT /F2 18 Tf 54 710 Td (CNC-X100 Diagnostic & Troubleshooting Guide) Tj ET
+0.35 0.35 0.35 rg BT /F1 10 Tf 54 684 Td (Product: CNC Machine  |  Model: CNC-X100  |  Document Type: TROUBLESHOOTING) Tj ET
+0.8 0.8 0.85 RG 1.5 w 54 664 m 558 664 l S
+0.1 0.2 0.5 rg BT /F2 14 Tf 54 639 Td (1. Diagnostic Overview & Alarm System) Tj ET
+0.85 0.85 0.9 RG 0.75 w 54 619 m 558 619 l S
+0.15 0.15 0.15 rg BT /F1 9.5 Tf 54 604 Td (The CNC-X100 control unit monitors telemetry sensors continuously. When abnormal) Tj ET
+0.15 0.15 0.15 rg BT /F1 9.5 Tf 54 590.5 Td (operating conditions occur, an alarm code is generated on the touchscreen HMI and) Tj ET
+0.15 0.15 0.15 rg BT /F1 9.5 Tf 54 577.0 Td (logged into the system diagnostics table.) Tj ET
+0.1 0.2 0.5 rg BT /F2 14 Tf 54 557.5 Td (2. Error Code Diagnostic & Resolution Procedures) Tj ET
+0.85 0.85 0.9 RG 0.75 w 54 537.5 m 558 537.5 l S
+0.2 0.3 0.5 rg BT /F2 11 Tf 54 522.5 Td (Error Code E105 - Cooling System Malfunction) Tj ET
+0.15 0.15 0.15 rg BT /F1 9.5 Tf 54 506.5 Td (Description: Coolant flow sensor detects flow rate below 8.0 L/min, or coolant) Tj ET
+0.15 0.15 0.15 rg BT /F1 9.5 Tf 54 493.0 Td (pump thermal overload relay Q4 has tripped.) Tj ET
+0.2 0.2 0.2 rg BT /F1 9.5 Tf 66 473.5 Td (- Symptoms: Alarm banner on HMI, coolant pump stops, spindle power output) Tj ET
+0.2 0.2 0.2 rg BT /F1 9.5 Tf 66 460.5 Td (  limited, high temperature warning.) Tj ET
+0.2 0.2 0.2 rg BT /F1 9.5 Tf 66 444.5 Td (- Possible Causes: Low coolant level in 200L reservoir, clogged intake screen) Tj ET
+0.2 0.2 0.2 rg BT /F1 9.5 Tf 66 431.5 Td (  basket, damaged pump impeller, kinked delivery hose, or tripped Q4 circuit) Tj ET
+0.2 0.2 0.2 rg BT /F1 9.5 Tf 66 418.5 Td (  breaker.) Tj ET
+0.2 0.2 0.2 rg BT /F1 9.5 Tf 66 402.5 Td (- Diagnostic Checks: Inspect coolant sight glass on reservoir tank; check flow) Tj ET
+0.2 0.2 0.2 rg BT /F1 9.5 Tf 66 389.5 Td (  meter FM-1 output on diagnostic screen; inspect circuit breaker Q4 in) Tj ET
+0.2 0.2 0.2 rg BT /F1 9.5 Tf 66 376.5 Td (  electrical cabinet.) Tj ET
+0.2 0.2 0.2 rg BT /F1 9.5 Tf 66 360.5 Td (- Recommended Corrective Actions: 1. Top up coolant emulsion to 80% level. 2.) Tj ET
+0.2 0.2 0.2 rg BT /F1 9.5 Tf 66 347.5 Td (  Remove intake screen filter basket and flush debris with compressed air. 3.) Tj ET
+0.2 0.2 0.2 rg BT /F1 9.5 Tf 66 334.5 Td (  Reset thermal relay Q4. 4. Replace pump motor if winding resistance is) Tj ET
+0.2 0.2 0.2 rg BT /F1 9.5 Tf 66 321.5 Td (  unbalanced.) Tj ET
+1.0 0.95 0.9 rg 54 275.5 504 40 re f
+0.8 0.3 0.1 RG 1 w 54 275.5 504 40 re s
+0.7 0.2 0.0 rg BT /F2 9.5 Tf 64 303.5 Td (WARNING / SAFETY PRECAUTION:) Tj ET
+0.3 0.1 0.0 rg BT /F1 9 Tf 64 290.5 Td (SAFETY: Turn OFF electrical power before opening cabinet or servicing) Tj ET
+0.3 0.1 0.0 rg BT /F1 9 Tf 64 277.5 Td (coolant pump. Wear chemical-resistant safety gloves and safety goggles.) Tj ET
+0.2 0.3 0.5 rg BT /F2 11 Tf 54 252.5 Td (Error Code E210 - Spindle Overload Warning) Tj ET
+0.15 0.15 0.15 rg BT /F1 9.5 Tf 54 236.5 Td (Description: Main spindle motor current exceeds 120% of rated continuous output) Tj ET
+0.15 0.15 0.15 rg BT /F1 9.5 Tf 54 223.0 Td (for greater than 5 consecutive seconds.) Tj ET
+0.2 0.2 0.2 rg BT /F1 9.5 Tf 66 203.5 Td (- Symptoms: Spindle speed drops under heavy load, chatter marks on workpiece,) Tj ET
+0.2 0.2 0.2 rg BT /F1 9.5 Tf 66 190.5 Td (  E210 alarm displays on screen.) Tj ET
+0.2 0.2 0.2 rg BT /F1 9.5 Tf 66 174.5 Td (- Possible Causes: Excessive depth of cut, dull or chipped cutting inserts,) Tj ET
+0.2 0.2 0.2 rg BT /F1 9.5 Tf 66 161.5 Td (  hard spots in workpiece material, spindle bearing mechanical binding, or) Tj ET
+0.2 0.2 0.2 rg BT /F1 9.5 Tf 66 148.5 Td (  incorrect feed rate.) Tj ET
+0.2 0.2 0.2 rg BT /F1 9.5 Tf 66 132.5 Td (- Diagnostic Checks: Check spindle load meter on HMI; inspect cutting tool for) Tj ET
+0.2 0.2 0.2 rg BT /F1 9.5 Tf 66 119.5 Td (  chip welding or edge wear; manually rotate spindle shaft \(power OFF\) to feel) Tj ET
+0.2 0.2 0.2 rg BT /F1 9.5 Tf 66 106.5 Td (  for mechanical drag.) Tj ET
+0.2 0.2 0.2 rg BT /F1 9.5 Tf 66 90.5 Td (- Recommended Corrective Actions: 1. Press Feed Hold and inspect cutting tool.) Tj ET
+0.2 0.2 0.2 rg BT /F1 9.5 Tf 66 77.5 Td (  2. Replace worn inserts or tool assembly. 3. Reduce axial depth of cut by) Tj ET
+0.75 0.75 0.8 RG 0.5 w 54 48 m 558 48 l S
+0.4 0.4 0.4 rg BT /F1 8.5 Tf 54 36 Td (ProductAssist AI Synthetic Knowledge Base - Demo Material Only) Tj ET
+0.4 0.4 0.4 rg BT /F1 8.5 Tf 490 36 Td (Page 1 of 3) Tj ET
+endstream
+endobj
+9 0 obj
+<< /Length 5018 >>
+stream
+0.3 0.3 0.35 rg BT /F2 8.5 Tf 54 750 Td (CNC Machine CNC-X100 - Troubleshooting Guide) Tj ET
+0.75 0.75 0.8 RG 0.5 w 54 742 m 558 742 l S
+0.2 0.2 0.2 rg BT /F1 9.5 Tf 66 710 Td (  25%. 4. Increase spindle speed by 15% or reduce feed rate.) Tj ET
+1.0 0.95 0.9 rg 54 664 504 40 re f
+0.8 0.3 0.1 RG 1 w 54 664 504 40 re s
+0.7 0.2 0.0 rg BT /F2 9.5 Tf 64 692 Td (WARNING / SAFETY PRECAUTION:) Tj ET
+0.3 0.1 0.0 rg BT /F1 9 Tf 64 679 Td (SAFETY: Ensure spindle has come to a COMPLETE STOP before opening) Tj ET
+0.3 0.1 0.0 rg BT /F1 9 Tf 64 666 Td (enclosure door. Do not touch hot cutting tools with bare hands.) Tj ET
+0.2 0.3 0.5 rg BT /F2 11 Tf 54 641 Td (Error Code E315 - Temperature Sensor Fault) Tj ET
+0.15 0.15 0.15 rg BT /F1 9.5 Tf 54 625 Td (Description: Thermal compensation sensor RTD-1 \(Spindle Housing\) or RTD-2 \(Z-Axis) Tj ET
+0.15 0.15 0.15 rg BT /F1 9.5 Tf 54 611.5 Td (Nut\) signal out of valid range \(-20∞C to +120∞C\).) Tj ET
+0.2 0.2 0.2 rg BT /F1 9.5 Tf 66 592.0 Td (- Symptoms: Incorrect temperature readout on screen, thermal compensation) Tj ET
+0.2 0.2 0.2 rg BT /F1 9.5 Tf 66 579.0 Td (  disabled, E315 alarm active.) Tj ET
+0.2 0.2 0.2 rg BT /F1 9.5 Tf 66 563.0 Td (- Possible Causes: Loose wiring connector at CN7 board, severed thermistor) Tj ET
+0.2 0.2 0.2 rg BT /F1 9.5 Tf 66 550.0 Td (  wire, defective PT100 sensor probe, or strong electromagnetic interference.) Tj ET
+0.2 0.2 0.2 rg BT /F1 9.5 Tf 66 534.0 Td (- Diagnostic Checks: Inspect terminal block CN7 on I/O board; measure) Tj ET
+0.2 0.2 0.2 rg BT /F1 9.5 Tf 66 521.0 Td (  resistance of PT100 probe \(nominal 108.4 Ohms at 21∞C\); check cable shield) Tj ET
+0.2 0.2 0.2 rg BT /F1 9.5 Tf 66 508.0 Td (  ground continuity.) Tj ET
+0.2 0.2 0.2 rg BT /F1 9.5 Tf 66 492.0 Td (- Recommended Corrective Actions: 1. Re-seat connector CN7 securely. 2.) Tj ET
+0.2 0.2 0.2 rg BT /F1 9.5 Tf 66 479.0 Td (  Replace defective temperature sensor probe assembly \(Part # X100-SEN-315\).) Tj ET
+0.2 0.2 0.2 rg BT /F1 9.5 Tf 66 466.0 Td (  3. Repair loose ground shield wire.) Tj ET
+1.0 0.95 0.9 rg 54 420.0 504 40 re f
+0.8 0.3 0.1 RG 1 w 54 420.0 504 40 re s
+0.7 0.2 0.0 rg BT /F2 9.5 Tf 64 448.0 Td (WARNING / SAFETY PRECAUTION:) Tj ET
+0.3 0.1 0.0 rg BT /F1 9 Tf 64 435.0 Td (SAFETY: Disconnect main power breaker prior to probing electrical terminal) Tj ET
+0.3 0.1 0.0 rg BT /F1 9 Tf 64 422.0 Td (blocks or measuring wiring resistance.) Tj ET
+0.2 0.3 0.5 rg BT /F2 11 Tf 54 397.0 Td (Error Code E420 - Lubrication System Pressure Warning) Tj ET
+0.15 0.15 0.15 rg BT /F1 9.5 Tf 54 381.0 Td (Description: Lubrication pressure switch PS-2 fails to detect 15 bar pressure) Tj ET
+0.15 0.15 0.15 rg BT /F1 9.5 Tf 54 367.5 Td (within 30 seconds of automatic lube pump cycle start.) Tj ET
+0.2 0.2 0.2 rg BT /F1 9.5 Tf 66 348.0 Td (- Symptoms: Dry linear guide ways, lube pump runs continuously, E420 alarm) Tj ET
+0.2 0.2 0.2 rg BT /F1 9.5 Tf 66 335.0 Td (  active.) Tj ET
+0.2 0.2 0.2 rg BT /F1 9.5 Tf 66 319.0 Td (- Possible Causes: Empty slide-way oil tank, air trapped in lube supply lines,) Tj ET
+0.2 0.2 0.2 rg BT /F1 9.5 Tf 66 306.0 Td (  damaged distributor metering valve, clogged 10-micron oil filter, or faulty) Tj ET
+0.2 0.2 0.2 rg BT /F1 9.5 Tf 66 293.0 Td (  pressure switch PS-2.) Tj ET
+0.2 0.2 0.2 rg BT /F1 9.5 Tf 66 277.0 Td (- Diagnostic Checks: Check ISO VG 68 oil reservoir level; press manual lube) Tj ET
+0.2 0.2 0.2 rg BT /F1 9.5 Tf 66 264.0 Td (  prime button and observe pressure gauge; check linear guide ways for oil) Tj ET
+0.2 0.2 0.2 rg BT /F1 9.5 Tf 66 251.0 Td (  film.) Tj ET
+0.2 0.2 0.2 rg BT /F1 9.5 Tf 66 235.0 Td (- Recommended Corrective Actions: 1. Fill lube reservoir with clean ISO VG 68) Tj ET
+0.2 0.2 0.2 rg BT /F1 9.5 Tf 66 222.0 Td (  slide-way oil. 2. Loosen air bleed screw on pump manifold until bubble-free) Tj ET
+0.2 0.2 0.2 rg BT /F1 9.5 Tf 66 209.0 Td (  oil flows. 3. Replace clogged oil filter element \(Part # X100-LUB-010\).) Tj ET
+1.0 0.95 0.9 rg 54 163.0 504 40 re f
+0.8 0.3 0.1 RG 1 w 54 163.0 504 40 re s
+0.7 0.2 0.0 rg BT /F2 9.5 Tf 64 191.0 Td (WARNING / SAFETY PRECAUTION:) Tj ET
+0.3 0.1 0.0 rg BT /F1 9 Tf 64 178.0 Td (SAFETY: Immediately clean up any spilled slide-way oil on floor around) Tj ET
+0.3 0.1 0.0 rg BT /F1 9 Tf 64 165.0 Td (machine to prevent slipping hazards.) Tj ET
+0.1 0.2 0.5 rg BT /F2 14 Tf 54 140.0 Td (3. Additional Machine Symptom Diagnostics) Tj ET
+0.85 0.85 0.9 RG 0.75 w 54 120.0 m 558 120.0 l S
+0.2 0.2 0.2 rg BT /F1 9.5 Tf 66 105.0 Td (- Pneumatic Pressure Low \(<6.0 bar\): Verify shop supply air pressure; inspect) Tj ET
+0.2 0.2 0.2 rg BT /F1 9.5 Tf 66 92.0 Td (  pneumatic FRL moisture drain; adjust regulator knob to 6.5 bar.) Tj ET
+0.2 0.2 0.2 rg BT /F1 9.5 Tf 66 76.0 Td (- Spindle Vibration / Overheating: Inspect spindle oil chiller unit; clean) Tj ET
+0.75 0.75 0.8 RG 0.5 w 54 48 m 558 48 l S
+0.4 0.4 0.4 rg BT /F1 8.5 Tf 54 36 Td (ProductAssist AI Synthetic Knowledge Base - Demo Material Only) Tj ET
+0.4 0.4 0.4 rg BT /F1 8.5 Tf 490 36 Td (Page 2 of 3) Tj ET
+endstream
+endobj
+10 0 obj
+<< /Length 912 >>
+stream
+0.3 0.3 0.35 rg BT /F2 8.5 Tf 54 750 Td (CNC Machine CNC-X100 - Troubleshooting Guide) Tj ET
+0.75 0.75 0.8 RG 0.5 w 54 742 m 558 742 l S
+0.2 0.2 0.2 rg BT /F1 9.5 Tf 66 710 Td (  cooling fins; check BT40 tool holder pull stud torque \(45 Nm\).) Tj ET
+0.2 0.2 0.2 rg BT /F1 9.5 Tf 66 694 Td (- Safety Door Interlock Lockout: Inspect door proximity switch alignment;) Tj ET
+0.2 0.2 0.2 rg BT /F1 9.5 Tf 66 681 Td (  clear chips from door track; verify 24V DC signal at door switch.) Tj ET
+0.2 0.2 0.2 rg BT /F1 9.5 Tf 66 665 Td (- Emergency Stop Recovery: Twist red mushroom button clockwise to reset; press) Tj ET
+0.2 0.2 0.2 rg BT /F1 9.5 Tf 66 652 Td (  Power On button on HMI; home all 3 axes.) Tj ET
+0.75 0.75 0.8 RG 0.5 w 54 48 m 558 48 l S
+0.4 0.4 0.4 rg BT /F1 8.5 Tf 54 36 Td (ProductAssist AI Synthetic Knowledge Base - Demo Material Only) Tj ET
+0.4 0.4 0.4 rg BT /F1 8.5 Tf 490 36 Td (Page 3 of 3) Tj ET
+endstream
+endobj
+xref
+0 11
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000133 00000 n 
+0000000203 00000 n 
+0000000278 00000 n 
+0000000414 00000 n 
+0000000550 00000 n 
+0000000687 00000 n 
+0000005397 00000 n 
+0000010467 00000 n 
+trailer
+<< /Size 11 /Root 1 0 R >>
+startxref
+11431
+%%EOF

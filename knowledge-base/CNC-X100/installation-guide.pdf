@@ -1,0 +1,123 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 6 0 R] /Count 2 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 7 0 R >>
+endobj
+6 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 8 0 R >>
+endobj
+7 0 obj
+<< /Length 4301 >>
+stream
+0.3 0.3 0.35 rg BT /F2 8.5 Tf 54 750 Td (CNC Machine CNC-X100 - Installation Guide) Tj ET
+0.75 0.75 0.8 RG 0.5 w 54 742 m 558 742 l S
+0.1 0.25 0.55 rg BT /F2 18 Tf 54 710 Td (CNC-X100 Vertical Machining Center Installation Guide) Tj ET
+0.35 0.35 0.35 rg BT /F1 10 Tf 54 684 Td (Product: CNC Machine  |  Model: CNC-X100  |  Document Type: INSTALLATION_GUIDE) Tj ET
+0.8 0.8 0.85 RG 1.5 w 54 664 m 558 664 l S
+0.1 0.2 0.5 rg BT /F2 14 Tf 54 639 Td (1. Site Preparation & Environmental Requirements) Tj ET
+0.85 0.85 0.9 RG 0.75 w 54 619 m 558 619 l S
+0.15 0.15 0.15 rg BT /F1 9.5 Tf 54 604 Td (Proper site preparation ensures long-term machining positioning accuracy, operator) Tj ET
+0.15 0.15 0.15 rg BT /F1 9.5 Tf 54 590.5 Td (safety, and structural machine stability.) Tj ET
+0.2 0.2 0.2 rg BT /F1 9.5 Tf 66 571.0 Td (- Foundation Requirement: Heavy-duty reinforced concrete pad with minimum) Tj ET
+0.2 0.2 0.2 rg BT /F1 9.5 Tf 66 558.0 Td (  thickness of 200 mm \(8 inches\).) Tj ET
+0.2 0.2 0.2 rg BT /F1 9.5 Tf 66 542.0 Td (- Floor Load Rating: Minimum load-bearing capacity of 3,500 kg/m^2.) Tj ET
+0.2 0.2 0.2 rg BT /F1 9.5 Tf 66 526.0 Td (- Service Access Clearance: Minimum 1.0 meter \(3.3 feet\) open clearance around) Tj ET
+0.2 0.2 0.2 rg BT /F1 9.5 Tf 66 513.0 Td (  machine rear and sides for maintenance access.) Tj ET
+0.2 0.2 0.2 rg BT /F1 9.5 Tf 66 497.0 Td (- Operating Ambient Temperature: +15∞C to +35∞C \(+59∞F to +95∞F\). Optimal) Tj ET
+0.2 0.2 0.2 rg BT /F1 9.5 Tf 66 484.0 Td (  operating temperature: 20∞C ±2∞C.) Tj ET
+0.2 0.2 0.2 rg BT /F1 9.5 Tf 66 468.0 Td (- Relative Humidity: 30% to 80% non-condensing.) Tj ET
+0.2 0.2 0.2 rg BT /F1 9.5 Tf 66 452.0 Td (- Vibration Isolation: Keep machine at least 15 meters away from stamping) Tj ET
+0.2 0.2 0.2 rg BT /F1 9.5 Tf 66 439.0 Td (  presses, forging hammers, or heavy overhead cranes.) Tj ET
+0.1 0.2 0.5 rg BT /F2 14 Tf 54 423.0 Td (2. Uncrating, Rigging & Machine Leveling) Tj ET
+0.85 0.85 0.9 RG 0.75 w 54 403.0 m 558 403.0 l S
+0.15 0.15 0.15 rg BT /F1 9.5 Tf 54 388.0 Td (Unpacking and hoisting procedures must be performed by certified industrial) Tj ET
+0.15 0.15 0.15 rg BT /F1 9.5 Tf 54 374.5 Td (rigging personnel:) Tj ET
+0.15 0.15 0.15 rg BT /F1 9.5 Tf 54 355.0 Td (1. Use an overhead crane \(minimum 5-ton capacity\) or 5-ton forklift to position) Tj ET
+0.15 0.15 0.15 rg BT /F1 9.5 Tf 54 341.5 Td (machine over concrete pad.) Tj ET
+0.15 0.15 0.15 rg BT /F1 9.5 Tf 54 322.0 Td (2. Install six heavy-duty steel leveling pads beneath base casting adjustment) Tj ET
+0.15 0.15 0.15 rg BT /F1 9.5 Tf 54 308.5 Td (bolts.) Tj ET
+0.15 0.15 0.15 rg BT /F1 9.5 Tf 54 289.0 Td (3. Place precision spirit level \(0.02 mm/m sensitivity\) on ground table surface.) Tj ET
+0.15 0.15 0.15 rg BT /F1 9.5 Tf 54 269.5 Td (4. Adjust leveling bolts until table is level within 0.02 mm/m across both X and Y) Tj ET
+0.15 0.15 0.15 rg BT /F1 9.5 Tf 54 256.0 Td (directions.) Tj ET
+0.1 0.2 0.5 rg BT /F2 14 Tf 54 236.5 Td (3. Electrical Installation & Grounding Requirements) Tj ET
+0.85 0.85 0.9 RG 0.75 w 54 216.5 m 558 216.5 l S
+0.15 0.15 0.15 rg BT /F1 9.5 Tf 54 201.5 Td (Electrical installation must comply with national electrical codes and industrial) Tj ET
+0.15 0.15 0.15 rg BT /F1 9.5 Tf 54 188.0 Td (facility safety standards:) Tj ET
+0.2 0.2 0.2 rg BT /F1 9.5 Tf 66 168.5 Td (- Input Power Supply: 3-Phase AC 400V ±10%, 50/60 Hz.) Tj ET
+0.2 0.2 0.2 rg BT /F1 9.5 Tf 66 152.5 Td (- Total Connected Electrical Load: 35 kVA. Full load current rating: 48 Amps.) Tj ET
+0.2 0.2 0.2 rg BT /F1 9.5 Tf 66 136.5 Td (- Main Power Cable: 4-core copper cable, minimum cross-section 16 mm^2.) Tj ET
+0.2 0.2 0.2 rg BT /F1 9.5 Tf 66 120.5 Td (- Circuit Breaker Rating: Recommended 63 Amp 3-pole circuit breaker with) Tj ET
+0.2 0.2 0.2 rg BT /F1 9.5 Tf 66 107.5 Td (  residual current circuit breaker \(RCCB\).) Tj ET
+0.2 0.2 0.2 rg BT /F1 9.5 Tf 66 91.5 Td (- Control Voltage: 24V DC regulated internal power supply.) Tj ET
+0.2 0.2 0.2 rg BT /F1 9.5 Tf 66 75.5 Td (- Earth Grounding: Dedicated ground rod with ground resistance less than 5) Tj ET
+0.75 0.75 0.8 RG 0.5 w 54 48 m 558 48 l S
+0.4 0.4 0.4 rg BT /F1 8.5 Tf 54 36 Td (ProductAssist AI Synthetic Knowledge Base - Demo Material Only) Tj ET
+0.4 0.4 0.4 rg BT /F1 8.5 Tf 490 36 Td (Page 1 of 2) Tj ET
+endstream
+endobj
+8 0 obj
+<< /Length 3014 >>
+stream
+0.3 0.3 0.35 rg BT /F2 8.5 Tf 54 750 Td (CNC Machine CNC-X100 - Installation Guide) Tj ET
+0.75 0.75 0.8 RG 0.5 w 54 742 m 558 742 l S
+0.2 0.2 0.2 rg BT /F1 9.5 Tf 66 710 Td (  Ohms. Do not share ground line with arc welders.) Tj ET
+0.1 0.2 0.5 rg BT /F2 14 Tf 54 694 Td (4. Compressed Air & Coolant System Setup) Tj ET
+0.85 0.85 0.9 RG 0.75 w 54 674 m 558 674 l S
+0.15 0.15 0.15 rg BT /F1 9.5 Tf 54 659 Td (Connect facility compressed air line to pneumatic regulator FRL unit at rear of) Tj ET
+0.15 0.15 0.15 rg BT /F1 9.5 Tf 54 645.5 Td (machine:) Tj ET
+0.2 0.2 0.2 rg BT /F1 9.5 Tf 66 626.0 Td (- Pneumatic Operating Pressure Range: 6.0 bar to 8.0 bar \(87 psi to 116 psi\).) Tj ET
+0.2 0.2 0.2 rg BT /F1 9.5 Tf 66 613.0 Td (  Recommended nominal pressure: 6.5 bar.) Tj ET
+0.2 0.2 0.2 rg BT /F1 9.5 Tf 66 597.0 Td (- Air Flow Rate: Minimum 250 Liters/minute continuous clean flow.) Tj ET
+0.2 0.2 0.2 rg BT /F1 9.5 Tf 66 581.0 Td (- Air Quality & Filtration: 5-micron filter with automatic water condensate) Tj ET
+0.2 0.2 0.2 rg BT /F1 9.5 Tf 66 568.0 Td (  drain.) Tj ET
+0.2 0.2 0.2 rg BT /F1 9.5 Tf 66 552.0 Td (- Air Pressure Warning: Pressure below 6.0 bar will trigger pneumatic) Tj ET
+0.2 0.2 0.2 rg BT /F1 9.5 Tf 66 539.0 Td (  interlock fault and prevent tool unclamping cycles.) Tj ET
+0.2 0.2 0.2 rg BT /F1 9.5 Tf 66 523.0 Td (- Coolant Tank Setup: Fill 200-Liter tank with 6% water-soluble synthetic) Tj ET
+0.2 0.2 0.2 rg BT /F1 9.5 Tf 66 510.0 Td (  coolant emulsion to 80% fill mark.) Tj ET
+0.1 0.2 0.5 rg BT /F2 14 Tf 54 494.0 Td (5. Initial Setup & Post-Installation Commissioning) Tj ET
+0.85 0.85 0.9 RG 0.75 w 54 474.0 m 558 474.0 l S
+0.15 0.15 0.15 rg BT /F1 9.5 Tf 54 459.0 Td (Before applying axis drive power, complete initial calibration checks:) Tj ET
+0.2 0.2 0.2 rg BT /F1 9.5 Tf 66 439.5 Td (- Remove red shipping transit locking brackets from Z-axis ball screw and tool) Tj ET
+0.2 0.2 0.2 rg BT /F1 9.5 Tf 66 426.5 Td (  changer arm.) Tj ET
+0.2 0.2 0.2 rg BT /F1 9.5 Tf 66 410.5 Td (- Fill automatic central lubrication reservoir with ISO VG 68 slide-way oil.) Tj ET
+0.2 0.2 0.2 rg BT /F1 9.5 Tf 66 394.5 Td (- Perform spindle runout check using dial test indicator \(maximum allowable) Tj ET
+0.2 0.2 0.2 rg BT /F1 9.5 Tf 66 381.5 Td (  runout 0.003 mm\).) Tj ET
+0.2 0.2 0.2 rg BT /F1 9.5 Tf 66 365.5 Td (- Execute laser interferometer pitch error compensation calibration routine.) Tj ET
+1.0 0.95 0.9 rg 54 319.5 504 40 re f
+0.8 0.3 0.1 RG 1 w 54 319.5 504 40 re s
+0.7 0.2 0.0 rg BT /F2 9.5 Tf 64 347.5 Td (WARNING / SAFETY PRECAUTION:) Tj ET
+0.3 0.1 0.0 rg BT /F1 9 Tf 64 334.5 Td (Verify correct 3-phase phase rotation before turning on spindle. Incorrect) Tj ET
+0.3 0.1 0.0 rg BT /F1 9 Tf 64 321.5 Td (phase rotation will reverse coolant pump and chip conveyor motors.) Tj ET
+0.75 0.75 0.8 RG 0.5 w 54 48 m 558 48 l S
+0.4 0.4 0.4 rg BT /F1 8.5 Tf 54 36 Td (ProductAssist AI Synthetic Knowledge Base - Demo Material Only) Tj ET
+0.4 0.4 0.4 rg BT /F1 8.5 Tf 490 36 Td (Page 2 of 2) Tj ET
+endstream
+endobj
+xref
+0 9
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000127 00000 n 
+0000000197 00000 n 
+0000000272 00000 n 
+0000000408 00000 n 
+0000000544 00000 n 
+0000004897 00000 n 
+trailer
+<< /Size 9 /Root 1 0 R >>
+startxref
+7963
+%%EOF

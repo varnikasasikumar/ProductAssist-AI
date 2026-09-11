@@ -1,0 +1,112 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 6 0 R] /Count 2 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 7 0 R >>
+endobj
+6 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 8 0 R >>
+endobj
+7 0 obj
+<< /Length 4101 >>
+stream
+0.3 0.3 0.35 rg BT /F2 8.5 Tf 54 750 Td (CNC Machine CNC-X100 - Safety Guide) Tj ET
+0.75 0.75 0.8 RG 0.5 w 54 742 m 558 742 l S
+0.1 0.25 0.55 rg BT /F2 18 Tf 54 710 Td (CNC-X100 Safety Guidelines & Operator Standards) Tj ET
+0.35 0.35 0.35 rg BT /F1 10 Tf 54 684 Td (Product: CNC Machine  |  Model: CNC-X100  |  Document Type: SAFETY) Tj ET
+0.8 0.8 0.85 RG 1.5 w 54 664 m 558 664 l S
+0.1 0.2 0.5 rg BT /F2 14 Tf 54 639 Td (1. General Operational Safety Rules) Tj ET
+0.85 0.85 0.9 RG 0.75 w 54 619 m 558 619 l S
+0.15 0.15 0.15 rg BT /F1 9.5 Tf 54 604 Td (Only trained and certified personnel are authorized to operate or service the) Tj ET
+0.15 0.15 0.15 rg BT /F1 9.5 Tf 54 590.5 Td (CNC-X100 machining center.) Tj ET
+0.2 0.2 0.2 rg BT /F1 9.5 Tf 66 571.0 Td (- Always read and understand all safety placards posted on the machine before) Tj ET
+0.2 0.2 0.2 rg BT /F1 9.5 Tf 66 558.0 Td (  operation.) Tj ET
+0.2 0.2 0.2 rg BT /F1 9.5 Tf 66 542.0 Td (- Maintain a clean, non-cluttered workspace around the machine perimeter) Tj ET
+0.2 0.2 0.2 rg BT /F1 9.5 Tf 66 529.0 Td (  \(minimum 1.0-meter clearance\).) Tj ET
+0.2 0.2 0.2 rg BT /F1 9.5 Tf 66 513.0 Td (- Never operate machine under influence of medication, drugs, or alcohol.) Tj ET
+0.1 0.2 0.5 rg BT /F2 14 Tf 54 497.0 Td (2. Personal Protective Equipment \(PPE\) Requirements) Tj ET
+0.85 0.85 0.9 RG 0.75 w 54 477.0 m 558 477.0 l S
+0.15 0.15 0.15 rg BT /F1 9.5 Tf 54 462.0 Td (All operators and maintenance technicians within the machining bay must wear) Tj ET
+0.15 0.15 0.15 rg BT /F1 9.5 Tf 54 448.5 Td (mandatory PPE:) Tj ET
+0.2 0.2 0.2 rg BT /F1 9.5 Tf 66 429.0 Td (- Eye Protection: ANSI Z87.1 approved impact-resistant safety glasses with) Tj ET
+0.2 0.2 0.2 rg BT /F1 9.5 Tf 66 416.0 Td (  side shields.) Tj ET
+0.2 0.2 0.2 rg BT /F1 9.5 Tf 66 400.0 Td (- Footwear: Steel-toe safety shoes with slip-resistant soles.) Tj ET
+0.2 0.2 0.2 rg BT /F1 9.5 Tf 66 384.0 Td (- Hearing Protection: Noise-reduction earplugs or earmuffs when operating near) Tj ET
+0.2 0.2 0.2 rg BT /F1 9.5 Tf 66 371.0 Td (  cutting cycles \(>85 dBA\).) Tj ET
+1.0 0.95 0.9 rg 54 312.0 504 53 re f
+0.8 0.3 0.1 RG 1 w 54 312.0 504 53 re s
+0.7 0.2 0.0 rg BT /F2 9.5 Tf 64 353.0 Td (WARNING / SAFETY PRECAUTION:) Tj ET
+0.3 0.1 0.0 rg BT /F1 9 Tf 64 340.0 Td (PROHIBITED NEAR MACHINE: Loose clothing, ties, neck chains, rings,) Tj ET
+0.3 0.1 0.0 rg BT /F1 9 Tf 64 327.0 Td (bracelets, and long un-tied hair are strictly prohibited near rotating) Tj ET
+0.3 0.1 0.0 rg BT /F1 9 Tf 64 314.0 Td (spindle or chip conveyor.) Tj ET
+0.1 0.2 0.5 rg BT /F2 14 Tf 54 289.0 Td (3. Electrical Safety & High-Voltage Standards) Tj ET
+0.85 0.85 0.9 RG 0.75 w 54 269.0 m 558 269.0 l S
+0.15 0.15 0.15 rg BT /F1 9.5 Tf 54 254.0 Td (The CNC-X100 operates on high-voltage 400V 3-phase electrical power.) Tj ET
+0.2 0.2 0.2 rg BT /F1 9.5 Tf 66 234.5 Td (- Electrical cabinet doors must remain closed and key-locked during normal) Tj ET
+0.2 0.2 0.2 rg BT /F1 9.5 Tf 66 221.5 Td (  operation.) Tj ET
+0.2 0.2 0.2 rg BT /F1 9.5 Tf 66 205.5 Td (- Only qualified industrial electricians may open electrical panels or perform) Tj ET
+0.2 0.2 0.2 rg BT /F1 9.5 Tf 66 192.5 Td (  electrical troubleshooting.) Tj ET
+0.2 0.2 0.2 rg BT /F1 9.5 Tf 66 176.5 Td (- Always test electrical terminals for Zero Energy State using calibrated) Tj ET
+0.2 0.2 0.2 rg BT /F1 9.5 Tf 66 163.5 Td (  multimeter prior to touching wiring.) Tj ET
+0.1 0.2 0.5 rg BT /F2 14 Tf 54 147.5 Td (4. Moving-Part Hazards & Enclosure Door Interlocks) Tj ET
+0.85 0.85 0.9 RG 0.75 w 54 127.5 m 558 127.5 l S
+0.15 0.15 0.15 rg BT /F1 9.5 Tf 54 112.5 Td (The machine enclosure features dual interlocked safety doors certified to ISO) Tj ET
+0.15 0.15 0.15 rg BT /F1 9.5 Tf 54 99.0 Td (13849-1 Category 4 / PL e:) Tj ET
+0.2 0.2 0.2 rg BT /F1 9.5 Tf 66 79.5 Td (- Door Interlock: Automatically locks enclosure doors while spindle is) Tj ET
+0.75 0.75 0.8 RG 0.5 w 54 48 m 558 48 l S
+0.4 0.4 0.4 rg BT /F1 8.5 Tf 54 36 Td (ProductAssist AI Synthetic Knowledge Base - Demo Material Only) Tj ET
+0.4 0.4 0.4 rg BT /F1 8.5 Tf 490 36 Td (Page 1 of 2) Tj ET
+endstream
+endobj
+8 0 obj
+<< /Length 1775 >>
+stream
+0.3 0.3 0.35 rg BT /F2 8.5 Tf 54 750 Td (CNC Machine CNC-X100 - Safety Guide) Tj ET
+0.75 0.75 0.8 RG 0.5 w 54 742 m 558 742 l S
+0.2 0.2 0.2 rg BT /F1 9.5 Tf 66 710 Td (  rotating or axes are moving in AUTO mode.) Tj ET
+0.2 0.2 0.2 rg BT /F1 9.5 Tf 66 694 Td (- Never bypass, defeat, or short-circuit safety door limit switches under any) Tj ET
+0.2 0.2 0.2 rg BT /F1 9.5 Tf 66 681 Td (  circumstances.) Tj ET
+0.2 0.2 0.2 rg BT /F1 9.5 Tf 66 665 Td (- Beware of pinch points around automatic tool changer arm and chip conveyor) Tj ET
+0.2 0.2 0.2 rg BT /F1 9.5 Tf 66 652 Td (  bucket.) Tj ET
+0.1 0.2 0.5 rg BT /F2 14 Tf 54 636 Td (5. Emergency Stop \(E-Stop\) & Lockout / Tagout \(LOTO\)) Tj ET
+0.85 0.85 0.9 RG 0.75 w 54 616 m 558 616 l S
+0.15 0.15 0.15 rg BT /F1 9.5 Tf 54 601 Td (Emergency Stop Procedure:) Tj ET
+0.15 0.15 0.15 rg BT /F1 9.5 Tf 54 581.5 Td (Press red mushroom E-Stop button immediately upon collision, abnormal noise, or) Tj ET
+0.15 0.15 0.15 rg BT /F1 9.5 Tf 54 568.0 Td (fire. Axis drive power is killed instantly and spindle mechanical brake engages) Tj ET
+0.15 0.15 0.15 rg BT /F1 9.5 Tf 54 554.5 Td (within 0.5 seconds.) Tj ET
+0.15 0.15 0.15 rg BT /F1 9.5 Tf 54 535.0 Td (Lockout / Tagout \(LOTO\) Procedure:) Tj ET
+0.15 0.15 0.15 rg BT /F1 9.5 Tf 54 515.5 Td (Prior to entering enclosure for cleaning or maintenance, turn main electrical) Tj ET
+0.15 0.15 0.15 rg BT /F1 9.5 Tf 54 502.0 Td (disconnect to OFF, attach personal padlock and warning tag, and lock pneumatic) Tj ET
+0.15 0.15 0.15 rg BT /F1 9.5 Tf 54 488.5 Td (shutoff valve.) Tj ET
+0.75 0.75 0.8 RG 0.5 w 54 48 m 558 48 l S
+0.4 0.4 0.4 rg BT /F1 8.5 Tf 54 36 Td (ProductAssist AI Synthetic Knowledge Base - Demo Material Only) Tj ET
+0.4 0.4 0.4 rg BT /F1 8.5 Tf 490 36 Td (Page 2 of 2) Tj ET
+endstream
+endobj
+xref
+0 9
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000127 00000 n 
+0000000197 00000 n 
+0000000272 00000 n 
+0000000408 00000 n 
+0000000544 00000 n 
+0000004697 00000 n 
+trailer
+<< /Size 9 /Root 1 0 R >>
+startxref
+6524
+%%EOF

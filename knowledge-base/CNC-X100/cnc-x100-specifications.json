@@ -1,0 +1,32 @@
+{
+  "product": "CNC Machine",
+  "model": "CNC-X100",
+  "category": "3-Axis Vertical Machining Center",
+  "specifications": {
+    "spindle_speed_rpm": 12000,
+    "spindle_taper": "BT40",
+    "axis_travel_mm": { "X": 800, "Y": 450, "Z": 500 },
+    "table_dimensions_mm": { "width": 900, "length": 450 },
+    "max_table_load_kg": 600,
+    "dimensions_mm": { "width": 2800, "depth": 2250, "height": 2650 },
+    "weight_kg": 4200,
+    "electrical": "400V 3-phase, 50/60 Hz, 35 kVA, 63A breaker",
+    "pneumatics": "6.0 - 8.0 bar (nominal 6.5 bar), 250 L/min",
+    "coolant_tank_liters": 200,
+    "coolant_type": "6% water-soluble synthetic coolant emulsion",
+    "coolant_flow_nominal_lpm": 35.0,
+    "operating_temperature_c": "+15 to +35"
+  },
+  "error_codes": [
+    { "code": "E105", "title": "Cooling System Malfunction", "threshold": "Flow < 8.0 L/min or Q4 relay trip" },
+    { "code": "E210", "title": "Spindle Overload Warning", "threshold": "Motor current > 120% for > 5s" },
+    { "code": "E315", "title": "Temperature Sensor Fault", "threshold": "RTD probe out of range -20C to +120C" },
+    { "code": "E420", "title": "Lubrication System Warning", "threshold": "Pressure switch PS-2 < 15 bar in 30s" }
+  ],
+  "maintenance_intervals": {
+    "daily": ["Coolant sight glass level (80%)", "Pneumatic FRL gauge (6.5 bar)", "Slide-way oil level", "Way cover chip cleanout"],
+    "weekly": ["Coolant intake screen basket flush", "Spindle taper felt wiper cleaning", "BT40 pull stud inspection"],
+    "monthly": ["Cabinet air filter mat replacement (Part # X100-FLT-002)", "ATC cam box greasing"],
+    "semi_annual": ["Complete 200L coolant tank flush"]
+  }
+}
