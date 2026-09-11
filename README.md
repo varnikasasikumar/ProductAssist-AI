@@ -352,6 +352,14 @@ ProductAssist-AI/
 └── README.md
 ```
 
+## Application Preview
+
+### ProductAssist AI Dashboard
+
+The dashboard provides an overview of monitored equipment, system health, maintenance activity, AI assistance, and troubleshooting capabilities.
+
+![ProductAssist AI Dashboard](docs/screenshots/dashboard.png)
+
 ## Demo Scenario
 
 The primary demonstration uses the **CNC-X100 CNC Machine** and a simulated **E105 Cooling System Fault**.
