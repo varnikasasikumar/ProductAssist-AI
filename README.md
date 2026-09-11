@@ -360,6 +360,48 @@ The dashboard provides an overview of monitored equipment, system health, mainte
 
 ![ProductAssist AI Dashboard](docs/screenshots/dashboard.png)
 
+### Multimodal AI RAG Assistant
+
+The AI Assistant provides grounded technical answers using product documentation and supports image and voice-based interaction.
+
+![ProductAssist AI RAG Assistant](docs/screenshots/assistant.png)
+
+### Agentic Troubleshooting Workflow
+
+The troubleshooting interface guides technicians through diagnosis, corrective actions, verification, and resolution using a stateful agentic workflow.
+
+![ProductAssist AI Agentic Troubleshooting](docs/screenshots/troubleshooter.png)
+
+### Vector Knowledge Base
+
+The knowledge base manages product manuals and technical documents, including indexing status, versions, target equipment, and vector chunks used for semantic retrieval.
+
+![ProductAssist AI Knowledge Base](docs/screenshots/knowledge-base.png)
+
+### Maintenance Schedule & Work Orders
+
+The maintenance interface tracks corrective and preventive maintenance activities, priorities, scheduled dates, assigned technicians, and work-order status.
+
+![ProductAssist AI Maintenance](docs/screenshots/maintenance.png)
+
+### Agentic Troubleshooting Workflow
+
+The troubleshooting interface guides technicians through diagnosis, corrective actions, verification, and resolution using a stateful agentic workflow.
+
+![ProductAssist AI Agentic Troubleshooting](docs/screenshots/troubleshooter.png)
+
+### Vector Knowledge Base
+
+The knowledge base manages product manuals and technical documents, including indexing status, versions, target equipment, and vector chunks used for semantic retrieval.
+
+![ProductAssist AI Knowledge Base](docs/screenshots/knowledge-base.png)
+
+### Maintenance Schedule & Work Orders
+
+The maintenance interface tracks corrective and preventive maintenance activities, priorities, scheduled dates, assigned technicians, and work-order status.
+
+![ProductAssist AI Maintenance](docs/screenshots/maintenance.png)
+
 ## Demo Scenario
 
 The primary demonstration uses the **CNC-X100 CNC Machine** and a simulated **E105 Cooling System Fault**.
